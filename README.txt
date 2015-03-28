@@ -1,0 +1,1 @@
+This repository contains code samples taken from various programs the parts of which have been written by Joanne Chen. These samples are for job application purpose, and many of these files do not stand on their own and may not be runnable, with a few exceptions which are mostly smaller programs composed of a single file.  
